@@ -1,0 +1,212 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+/*=================
+common css
+=================*/
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #efefef;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    width: 1060px;
+    margin: auto;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+/*=====================
+Header
+======================*/
+.innerHeader h3 {
+    width: 200px;
+    
+    text-transform: capitalize;
+    margin: 20px 0px;
+    font-size: 22px;
+    font-weight: 900;
+}
+
+.icons {
+    width: 100%;
+    display: flex;
+}
+
+.icons i {
+    font-size: 40px;
+    margin-left: 735px;
+    margin-top: 15px;
+}
+.headerWrapper {
+    display: flex;
+}
+.leftHeader {
+    margin-top: 50px;
+}
+
+.leftHeader h1 {
+    font-size: 43px;
+    font-weight: 900;
+    margin-bottom: 35px;
+    line-height: 60px;
+}
+p {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    margin-bottom: 20px;
+}
+button {
+    font-size: 15px;
+    padding: 10px;
+    background: #ff5200;
+    border: none;
+    border-radius: 15px;
+}
+button a{
+    color: black;
+    text-decoration: none;
+}
+.rightHeader {
+    width: 100%;
+}
+
+.rightHeader img {
+    width: 365px;
+    margin-left: 94px;
+    margin-top: 30px;
+    border: 2px solid #aadfaa;
+    border-radius: 50%;
+}
+
+/*=======================
+logoArea
+======================*/
+
+.logoWrapper{
+    outline: none;
+}
+
+.logoWrapper ul {
+    display: flex;
+    list-style: none;
+    padding: 25px;
+    outline: none;
+    margin: 12px 40px;
+    
+}
+
+.logoWrapper ul li {
+    margin-right: 48px;
+    border: none;
+}
+.hforp  {
+    width: 100%;
+    margin-bottom: 55px;
+    text-align: center;
+    font-size: 35px;
+    color: #4a4646;
+    font-weight: 800;
+}
+.singlerPopuler {
+    background: white;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+.singlerPopuler h1 {
+    margin: 10px 0;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Roboto';
+}
+
+.singlerPopuler h2 {
+    margin-bottom: 10px;
+    font-weight: 400;
+}
+
+.singlerPopuler h4 {
+    margin-bottom: 10px;
+    font-weight: 300;
+}
+
+
+.populerWrapper {
+    column-count: 3;
+}
+.singleBtn{
+    float: right;
+}
+
+.futureWrapper {
+    display: flex;
+}
+.rightFuture {
+    margin-left: 100px;
+}
+.rightFuture h1 {
+    margin-top: 30px;
+    font-size: 35px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+
+.rightFuture p {
+    color: #6d6666;
+    margin-bottom: 30px;
+}
+
+
+footer {
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 25px 0;
+}
+footer {
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 25px 0;
+}
+
+.footerWrapper h2 {
+    font-size: 30px;
+    font-weight: 900;
+    margin-bottom: 15px;
+}
+
+.footerWrapper p span {
+    color: gray;
+}
+.footerWrapper ul {
+    list-style: none;
+    display: flex;
+}
+
+.footerWrapper ul li {
+    margin: auto;
+    margin-top: 20px;
+}
+ul {
+    width: 240px;
+    margin: auto;
+}
+button:hover {
+    background: red;
+    color: white;
+}
+.footerWrapper ul {
+    width: 200px;
+    
+}
+

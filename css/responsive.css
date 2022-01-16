@@ -1,0 +1,151 @@
+@media only screen and (min-width:200px) and (max-width:991px){
+
+
+    .icons i {
+        margin-left: 500px;
+    }
+    .leftHeader {
+        width: 600px;
+    }
+    footer {
+        width: 1060px;
+    }
+    .singlerPopuler {
+      
+        padding: 5px;
+        margin-bottom: 8px;
+        border-radius: 20px;
+    }
+    
+}
+
+    @media only screen and (min-width:200px) and (max-width:480px){
+
+
+        .innerHeader h3 {
+            width: 200px;
+            font-size: 25px;       
+        }
+        .icons i {
+            margin-left: 125px;
+        }
+        .leftHeader h1 {
+            text-align: center;
+        }
+        .leftHeader h1 {
+            width: 400px;
+        }
+        .headerWrapper {
+            display: grid;
+        }
+        .leftHeader p {
+            width: 370px;
+            text-align: center;
+        }
+        .leftHeader button {
+            width: 66%;
+        }
+        .rightHeader img {
+            width: 310px;
+            margin: auto;
+            margin-left: 40px;
+            margin-top: 40px;
+        }
+        .logoWrapper ul {
+            display: grid;
+            text-align: center;
+        }
+        .logoWrapper ul li {
+            width: 100%;
+            font-size: 65px;
+        }
+        h1.hforp {
+            width: 390px;
+        }
+        .populerWrapper {
+            display: grid;
+        }
+        .singlerPopuler img {
+            width: 36%;
+        }
+        .singlerPopuler h1, h2, h4, p{
+            width: 400px;
+            text-align: center;
+        }
+        .singleBtn {
+            width: 395px;
+        }
+        .leftFuture img {
+            width: 395px;
+        }
+        .futureWrapper {
+            display: grid;
+        }
+
+
+
+
+    }
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
